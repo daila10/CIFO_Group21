@@ -1,4 +1,4 @@
-# CIFO_proj
+# CIFO group 21
 
 This repository contains code related to the SDP Algorithm and Plots for comparing different approaches.
 
