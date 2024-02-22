@@ -1,9 +1,9 @@
 # CIFO group 21
 
-This repository contains code related to the SDP Algorithm and Plots for comparing different approaches.
+This repository contains code related to the Stigler's Diet Problem (SDP) Algorithm and Plots for comparing different approaches.
 
 # SDP Algorithm Directory
-The SDP Genetic Algorithm directory contains the implementation of a genetic algorithm for the SDP (Stigler's Diet Problem). The algorithm is designed to find optimal solutions that meet specific nutritional requirements while minimizing the cost of food items.
+The SDP Genetic Algorithm directory contains the implementation of a genetic algorithm for the SDP. The algorithm is designed to find optimal solutions that meet specific nutritional requirements while minimizing the cost of food items.
 
 ## File Structure
 SDP Algorithm/<br>
